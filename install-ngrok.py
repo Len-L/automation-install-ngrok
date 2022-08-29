@@ -19,7 +19,7 @@ if a=="1":
     print(" ")
     print("Decompres")
     os.system("tar xvzf ngrok-v3-stable-linux-amd64.tgz")
-    os.syetem("rm -Rf ngrok-v3-stable-linux-amd64.tgz")
+    os.system("rm -Rf ngrok-v3-stable-linux-amd64.tgz")
     print(" ")
     t.sleep(1)
     print("OK")

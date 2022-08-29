@@ -5,6 +5,9 @@
 
 ## Install Keperluan 
 
+install library 'wget' agar dapat digunakan
+> pip install wget
+
 <br>
 
 ### Debian
@@ -18,9 +21,13 @@
 
 > pkg install python3
 <br>
-<br>
-<br>
 
 ## Menggunakan
 > python3 install-ngrok.py
+
+
+
+
+
+
 
